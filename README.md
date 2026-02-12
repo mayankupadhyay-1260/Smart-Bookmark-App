@@ -2,7 +2,7 @@
 
 A real-time, secure bookmark manager built with Next.js 14 and Supabase.
 
-**[🚀 Live Demo](https://your-vercel-url.vercel.app)** |  **[💻 GitHub Repository](https://github.com/your-username/smart-bookmark-app)**
+**[🚀 Live Demo](smart-bookmark-5y3y7j2k5-mayankupadhyay-1260s-projects.vercel.app)** |  **[💻 GitHub Repository]([https://github.com/your-username/smart-bookmark-app](https://github.com/mayankupadhyay-1260/Smart-Bookmark-App))**
 
 ---
 
